@@ -3,7 +3,8 @@ A Traveling Agency Website using React.js and Tailwind css, with the help of Dai
 
 
 
-![Travelino](src/components/images/Screenshot 2023-08-20 203316.png)
+![Travelino-Preview](src/components/images/Screenshot%202023-08-20%20203316.png)
+
 
 
 
